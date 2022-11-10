@@ -7,4 +7,4 @@ User can search for a city and the app will display and save in local storage by
 
 ## Weather API 
 
-The weather data is fetched from the [OpenWeatherMap API] (hhtps://openweathermap.org.api).
+The weather data is fetched from the [OpenWeatherMap API](hhtps://openweathermap.org.api).

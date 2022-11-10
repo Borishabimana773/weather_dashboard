@@ -1,0 +1,40 @@
+/* body background */
+body {
+    background-color: #f7f7f7;
+}
+
+/* header gradient background */
+.bg-grad {
+    background: linear-gradient(to left, #20084B, #5098E6);
+}
+
+/* search btn */
+.btn-search {
+    color: white;
+    background-color: #5098E6;
+}
+
+.btn-search:hover {
+    color: white;
+    background-color: #4787cc;
+}
+
+/* history btn background */
+.btn-history {
+    background-color: #AEAEAE;
+}
+
+/* 5 days card background */
+.bg-card {
+    background-color: #2D3E50;
+}
+
+/* icon size */
+.weather-icon {
+    height: 50px;
+}
+
+/* message indent */
+#message p {
+    text-indent: 5px;
+}
